@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "Phrase Speaker",
+  "description": "Tap-to-speak travel phrases in Arabic, French and Spanish.",
+  "appearance": {
+    "theme_color": "#38BDF8",
+    "icon": {
+      "src": "../icon-mono.png",
+      "type": "monochrome"
+    },
+    "icon_background": {
+      "colors": [
+        "#38BDF8",
+        "#1E6F9E",
+        "#123F59",
+        "#0B0F14"
+      ],
+      "stops": [
+        0.0,
+        0.33,
+        0.66,
+        1.0
+      ],
+      "inner_glow_color": "#BAE6FD"
+    }
+  }
+}
